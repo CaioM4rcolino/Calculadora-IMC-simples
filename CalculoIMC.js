@@ -22,7 +22,7 @@ function imc(){
       }
       else if(valorIMC < 25){
 
-        classificao = "com peso ideal. Parabéns!";
+        classificacao = "com peso ideal. Parabéns!";
       }
       else if(valorIMC < 30){
 
