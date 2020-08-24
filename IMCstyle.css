@@ -1,0 +1,93 @@
+#body {
+
+  background-color: black;
+}
+
+#mainbox {
+
+  width: 350px;
+
+  height: 450px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 10px;
+  border: 2px solid white;
+
+}
+
+
+#titulo {
+
+  width: 100%;
+  height: 50px;
+  border-bottom: 2px solid black;
+  color: white;
+  letter-spacing: 2px;
+  font-family: verdana;
+  font-size: 15px;
+  text-align: center;
+
+}
+
+section {
+
+  width: 100%;
+  height: 378px;
+  padding-top: 40px;
+  padding-left: 20px;
+  background-color: red;
+  box-sizing: border-box;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+
+}
+
+.spanText {
+
+  color: white;
+  font-family: verdana;
+  font-size: 15px;
+  float: left;
+  margin-right: 10px;
+
+}
+
+.inputs {
+
+  display: block;
+  height: 30px;
+  width: 250px;
+
+
+}
+
+#btnCalc {
+
+  width: 80px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid white;
+  color: black;
+  font-family: verdana;
+  font-size: 15px;
+  margin-left: 110px;
+  margin-top: 20px;
+
+}
+
+#IMC {
+
+  width: 310px;
+  height: 80px;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-top: 20px;
+
+  padding-left: 10px;
+  padding-top: 25px;
+  box-sizing: border-box;
+}
